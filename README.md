@@ -46,5 +46,5 @@ DOI = {}
 
 
 ## License
-`OTR pathway` are open-source and licensed under the ??.
+`OTR pathway` are open-source and licensed under the  Apache License, version 2.0.
 For details, see the LICENSE file.
