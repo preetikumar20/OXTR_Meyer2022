@@ -36,13 +36,13 @@ DOI = {}
 ## Requirements
 `OTR mathematical metabolic pathway` should run on Python 3.x.
 
-  * Jupyter (https://jupyter.org/)
-* PySb (http://pysb.org/)
-* NumPy (https://numpy.org/)
-* ScyPy (https://www.scipy.org/)
-* SymPy == 1.5.1 (https://www.sympy.org/en/index.html)
-* Matplotlib (https://matplotlib.org/)
-* Sklearn (https://scikit-learn.org/stable/index.html)
+  * Jupyter (https://jupyter.org)
+* PySb (http://pysb.org)
+* NumPy (https://numpy.org)
+* ScyPy (https://www.scipy.org)
+* SymPy == 1.5.1 (https://www.sympy.org)
+* Matplotlib (https://matplotlib.org)
+* Sklearn (https://scikit-learn.org)
 
 
 ## License
