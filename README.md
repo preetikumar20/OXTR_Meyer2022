@@ -1,7 +1,7 @@
 # OXTR
 Oxytocin Signalling Pathway
 
-# OXTR mathematical metabolic pathway
+# OXTR mathematical signalling pathway
 
 
 [![DOI]()]()
