@@ -1,7 +1,7 @@
-# OTR
-Oxytocin Metabolic Pathway
+# OXTR
+Oxytocin Signalling Pathway
 
-# OTR mathematical metabolic pathway
+# OXTR mathematical metabolic pathway
 
 
 [![DOI]()]()
@@ -34,7 +34,7 @@ DOI = {}
 ```
 
 ## Requirements
-`OTR mathematical metabolic pathway` should run on Python 3.x.
+`OXTR mathematical signalling pathway` should run on Python 3.x.
 
   * Jupyter (https://jupyter.org)
 * PySb (http://pysb.org)
@@ -46,5 +46,5 @@ DOI = {}
 
 
 ## License
-`OTR pathway` are open-source and licensed under the  Apache License, version 2.0.
+`OXTR signalling pathway` are open-source and licensed under the  Apache License, version 2.0.
 For details, see the LICENSE file.
