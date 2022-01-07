@@ -1,0 +1,9 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ribeiro"
+  given-names: "Rui Pedro"
+  orcid: " https://orcid.org/0000-0001-9939-2013"
+title: rribeiro-sci/OXTR: Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
+version: 1.0
+date-released: 2022-01-04
