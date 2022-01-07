@@ -4,7 +4,8 @@ Oxytocin Signalling Pathway
 # OXTR mathematical signalling pathway
 
 
-[![DOI]](https://doi.org/10.1038/s41380-021-01241-8)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5828280.svg)](https://doi.org/10.1038/s41380-021-01241-8)
+
 [![Python Version](https://img.shields.io/badge/python-3-lightgrey.svg)](https://python.org)
 
 Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
