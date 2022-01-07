@@ -18,7 +18,9 @@ Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
 If you used this code in a project that is going to be published, please cite us:
 
 ```
-Meyer, M., Jurek, B., Alfonso-Prieto, M. et al. Structure-function relationships of the disease-linked A218T oxytocin receptor variant. Mol Psychiatry (2022). https://doi.org/10.1038/s41380-021-01241-8
+Meyer, M., Jurek, B., Alfonso-Prieto, M. et al. Structure-function relationships of the 
+disease-linked A218T oxytocin receptor variant. Mol Psychiatry (2022). 
+https://doi.org/10.1038/s41380-021-01241-8
 ```
 
 If you use a reference manager that supports BibTex, use this record:
