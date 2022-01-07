@@ -4,7 +4,7 @@ Oxytocin Signalling Pathway
 # OXTR mathematical signalling pathway
 
 
-[![DOI]()](https://doi.org/10.1038/s41380-021-01241-8)
+[![DOI]](https://doi.org/10.1038/s41380-021-01241-8)
 [![Python Version](https://img.shields.io/badge/python-3-lightgrey.svg)](https://python.org)
 
 Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
@@ -24,13 +24,11 @@ If you used this code in a project that is going to be published, please cite us
 If you use a reference manager that supports BibTex, use this record:
 ```
 @Article{ ,
-AUTHOR = {},
-TITLE = {},
-JOURNAL = {},
-VOLUME = {},
-YEAR = {},
-NUMBER = {},
-DOI = {}
+AUTHOR = {Magdalena Meyer, Benjamin Jurek, Mercedes Alfonso-Prieto, Rui Ribeiro, Vladimir M. Milenkovic, Julia Winter, Petra Hoffmann, Christian H. Wetzel, Alejandro Giorgetti, Paolo Carloni, Inga D. Neumann},
+TITLE = {Structure-function relationships of the disease-linked A218T oxytocin receptor variant},
+JOURNAL = {Molecular Psychiatry},
+YEAR = {2022},
+DOI = {10.1038/s41380-021-01241-8}
 }
 ```
 
